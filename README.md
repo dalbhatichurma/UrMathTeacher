@@ -1,20 +1,19 @@
-<h1 align="center">Hi 👋, I'm UrMathsTeacher</h1>
+<h1 align="center">Hi 👋, I'm MathTeacher</h1>
 
 <h3 align="center">Minecraft Developer | Plugin Creator | Systems Designer</h3>
 
 ---
 
 💻 I build Minecraft plugins & server systems  
-⚡ Working on: TokenSMP & AntiCheat  
-🌱 Learning: Java & Spigot/Paper API  
-🎯 Goal: Become top Minecraft plugin developer  
+⚡ Working on TokenSMP & AntiCheat  
+🌱 Learning Java + Paper API  
+🎯 Goal: Build powerful Minecraft servers  
 
 ---
 
 ### 🛠️ Skills:
-- Java ☕
-- Minecraft Plugin Dev 🎮
-- HTML/CSS 🌐
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-2D2D2D?style=for-the-badge&logo=minecraft)
 
 ---
 
@@ -23,6 +22,5 @@
 
 ---
 
-### 🔥 Most Used Languages:
+### 🔥 Languages:
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbhatichurma)
-
