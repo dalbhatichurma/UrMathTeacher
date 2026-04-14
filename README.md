@@ -1,5 +1,6 @@
-<h1 align="center">⚡ Hi 👋, I'm MathTeacher</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=1500&pause=400&color=FF00FF&center=true&vCenter=true&width=900&lines=⚡+MATHTEACHER+⚡;🔥+MINECRAFT+DEV+🔥;☠️+PLUGIN+ENGINEER+☠️;⚙️+JAVA+SYSTEM+BUILDER+⚙️;🚀+TOKEN+PLUGIN+CREATOR+🚀" />
+</p>
 <h3 align="center">🎮 Minecraft Plugin Developer | ☕ Java Coder | 🚀 Backend Enthusiast</h3>
 
 ---
