@@ -19,12 +19,10 @@
 ---
 
 ### 📊 GitHub Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=dalbhatichurma&show_icons=true)
 
 ---
 
 ### 🔥 Most Used Languages:
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
-
-<img width="452" height="242" alt="image" src="https://github.com/user-attachments/assets/a81278f9-8151-4de2-afec-22a2d4069aa6" />
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbhatichurma)
 
